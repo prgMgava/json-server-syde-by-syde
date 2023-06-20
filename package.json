@@ -5,7 +5,7 @@
   "author": "alphasec",
   "license": "MIT",
   "dependencies": {
-    "json-server": "^0.16.1",
+    "json-server": "^0.17.3",
     "json-server-auth": "^2.0.2"
   },
   "devDependencies": {
