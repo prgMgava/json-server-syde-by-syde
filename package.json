@@ -1,7 +1,8 @@
 {
   "name": "backend-fake",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
+  "author": "alphasec",
   "license": "MIT",
   "dependencies": {
     "json-server": "^0.16.1",
@@ -9,5 +10,8 @@
   },
   "devDependencies": {
     "styled-components": "^5.2.0"
+  },
+  "scripts": {
+    "start": "node server.js"
   }
 }
